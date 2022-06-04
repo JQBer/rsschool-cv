@@ -26,3 +26,12 @@
 
 * Photographing
 * 3d modeling
+
+**Languages**
+
+1. *Russian - Native*
+2. *English - A2+/B1*
+
+**Education**
+
++ Belarussian-Russian University | Faculty of Electrical Engineering | Automated Electric Drive 
