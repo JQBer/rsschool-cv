@@ -1,4 +1,5 @@
 # **Rudkov Vladislav**
+![photo](img/pic.jpg)
 ## Junior Frontend Developer
 ---
  **Contacts:**
