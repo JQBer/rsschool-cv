@@ -35,3 +35,17 @@
 **Education**
 
 + Belarussian-Russian University | Faculty of Electrical Engineering | Automated Electric Drive 
+
+**Code example**
+
+	function getOddNumbers(numbers) {
+	let res = []; 
+	 for (let i = 0; i < numbers.length; i++) {
+	    if(numbers[i] % 2) {
+	    res.push(numbers[i])
+	    }
+	  }
+	  return res;
+	}
+	var mass = [1, 2, 3, 4, 5, 6];
+	console.log(getOddNumbers(mass))
