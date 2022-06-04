@@ -18,6 +18,13 @@
 * *Photoshop*
 * *Figma*
 
+**Soft skills**
+
+* Cooperation
+* Accurate
+* Attentive
+* Eager to learn
+
  **About me**
 
 *I am currently working as an engineer, but I have a great desire to change my profession to frontend. As soon as I got acquainted with JavaScript, my life changed, there was a desire to study and dig as deep as possible.*
