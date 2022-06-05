@@ -2,9 +2,6 @@
 ![photo](img/pic.jpg)
 ## Junior Frontend Developer
 
----
-
-
  **Contacts:**
 
 * *Phone: +375(44)710-66-93*
@@ -13,9 +10,7 @@
 * *Telegram: [@JQBer](t.me/jqber)*
 * *Instagramm: [@rudkov4856](https://www.instagram.com/rudkov4856)*
 
-
----
-
+***
 
 **Skills:**
 * *HTML*
@@ -33,7 +28,7 @@
 * Eager to learn
 
 
----
+***
 
 
  **About me**
@@ -46,7 +41,7 @@
 * 3d modeling
 
 
----
+
 
 
 **Languages**
@@ -55,7 +50,6 @@
 2. *English - A2+/B1*
 
 
----
 
 
 **Education**
@@ -63,8 +57,7 @@
 + Belarussian-Russian University | Faculty of Electrical Engineering | Automated Electric Drive 
 
 
----
-
+***
 
 **Code example**
 
