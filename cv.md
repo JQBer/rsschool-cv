@@ -9,7 +9,9 @@
 * *Github: [JQBER](https://github.com/JQBer)*
 * *Telegram: [@JQBer](t.me/jqber)*
 * *Instagramm: [@rudkov4856](https://www.instagram.com/rudkov4856)*
+
 ---
+
 **Skills:**
 * *HTML*
 * *CSS*
