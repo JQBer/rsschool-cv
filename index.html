@@ -14,6 +14,7 @@
 
 <body>
     <header class="header">
+
         <div class="Header-container">
             <img class="My photo" src="./assets/img/pic.jpg" alt="photo" width="200" height="200">
             <div class="title">
@@ -32,7 +33,84 @@
             </ul>
         </nav>
     </header>
-    
-
 </body>
+
+<main class="main">
+    <section id="Contacts" class="Contacts">
+        <div class="Contacts-container">
+            <h2>Contacts</h2>
+            <ul>
+                <li class="Email"><b>Email</b>
+                    <br> Picsart4856@gmail.com</li>
+                <li class="Github"><b>Github</b>
+                        <br><a href="https://github.com/JQBer"> JQBer</a> </li>
+                <li class="Telegram"><b>Telegram</b>
+                        <br><a href="https://t.me/jqber">@jqber</a></li>
+                <li class="Inst"><b>Instagram</b>
+                        <br><a href="https://www.instagram.com/rudkov4856/">@Rudkov4856</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="skills" class="Skills">
+        <div class="Skills-container">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Git</li>
+                <li>Figma</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="aboutme" class="About me">
+        <div class="Aboutme-container">
+            <h2> About me</h2>
+            <p> I am currently working as an engineer, but I have a great desire to change my profession to frontend. As soon as I got acquainted with JavaScript, my life changed, there was a desire to study and dig as deep as possible.
+            </p>
+            <h4> My hobbies</h4>
+            <ul>
+                <li>Photographing</li>
+                <li>3d Modeling</li>
+                <li>Photoshop</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="languages" class="Languages">
+        <div class="Languages-container">
+            <h2>Languages</h2>
+            <p>English - A2+</p>
+            <p>Russian - Native</p>
+        </div>
+    </section>
+
+    <section id="education" class="Education">
+        <div class="Education-container">
+            <h2>Education</h2>
+            <p>2015-2020 Belarussian-Russian University - Faculty of Electrical Engineering </p>
+        </div>
+    </section>
+
+    <section id="code" class="Code">
+        <div class="Code-container">
+            <h2>Code example</h2>
+            <pre><code>
+                function getOddNumbers(numbers) {
+                    let res = []; 
+                     for (let i = 0; i < numbers.length; i++) {
+                        if(numbers[i] % 2) {
+                        res.push(numbers[i])
+                        }
+                      }
+                      return res;
+                    }
+                    var mass = [1, 2, 3, 4, 5, 6];
+                    console.log(getOddNumbers(mass))
+            </code>
+            </pre>
+        </div>
+    </section>
+</main>
 </html>
